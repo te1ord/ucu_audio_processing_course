@@ -7,3 +7,9 @@ data/*
 
 Module_2/Lecture_1/logdirs
 Module_2/Lecture_3/AMI-diarization-setup
+
+
+.DS_Store
+Module_1/.DS_Store
+Module_1/Lecture_2/.DS_Store
+Module_1/archive/
